@@ -1,3 +1,3 @@
 # fose
-Project "Fundamentals of softwareengineering"
+Project "Fundamentals of software engineering"
 2024
